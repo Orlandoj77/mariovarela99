@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@MrioVarela4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MrioVarela4)](https://twitter.com/MrioVarela4)
 [![Linkedin Badge](https://img.shields.io/badge/-mariovarela99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/)](https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/) 
-[![Gmail Badge](https://img.shields.io/badge/-marioteixeiravarela@gmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:marioteixeiravarela@gmail.com)](mailto:marioteixeiravarela@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-marioteixeiravarela@gmail.com-c14438?style=flat-square&logo=microssoft&logoColor=white&link=mailto:marioteixeiravarela@gmail.com)](mailto:marioteixeiravarela@gmail.com)
 
 
 
