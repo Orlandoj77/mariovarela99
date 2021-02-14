@@ -4,9 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-mariovarela99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariovarela99@gmail.com)](mailto:mariovarela99@gmail.com)
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-Mário Varela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/)](https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/) 
-
-
 ### Hi There👋
 
 
