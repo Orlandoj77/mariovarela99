@@ -5,12 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-marioteixeiravarela@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioteixeiravarela@gmail.com)](mailto:marioteixeiravarela@gmail.com)
 
 
-<p align="center">
-<a href="https://arshiamidos.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=mariovarela99&column=7&theme=omni" />
-    </p>
-</a>
+<p align="center"> 
+  Profile Views Counter <br>
+  <img src="https://profile-counter.glitch.me/mariovarela99/count.svg" />
 </p>
 
 ### Hi There👋
