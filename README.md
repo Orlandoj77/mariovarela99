@@ -7,9 +7,9 @@
 
 ```json
   {
-    "status" : "200 OK",
+    "status" : "200 🆗",
   
-    "Full Name  " : "Mário Teixeira Varela - 😎",
+    "Full Name  " : "Mário Teixeira Varela - 😎🤙",
     
     "Contact" : {
       "Facebook" : "/mariovarela99",
@@ -18,21 +18,21 @@
       "GitHub" : "/mariovarela99",
       "Instagram" : "/mariovarela99",
       "Outlook" : "mariovarela99outlook.com",
-      "Gmail" : "marioteixeiravarelagmail.com",
-      "Tel" : "940245416",
+      "Gmail " : "marioteixeiravarelagmail.com",
+      "Tel - 📞" : "940245416",
     },
     
     "location" : "Luanda Angola, Sambizanga - São Paulo  - Rua Cónego Manuel das Neves CS-Nº 20",
     
     "languages" : [
-        "👌 Javascript", 
-          "ReactJS", 
-          "ReactNative", 
-          "MySql", 
-          "C", 
-          "HTML", 
-          "CSS", 
-          "NodeJS", 
+          "Javascript 👌", 
+          "ReactJS 💢", 
+          "ReactNative 💥", 
+          "MySql 💦", 
+          "C 💤", 
+          "HTML 💨", 
+          "CSS 💫", 
+          "NodeJS 🕳", 
           "..."
         ],
     
@@ -41,9 +41,9 @@
     "message" : "I am Web Programmer, 
                 FullStack Developer 
                 Focusing on JavaScript 
-                * Backend: NodeJS 
-                * FrontEnd: ReactJS 
-                * Mobile: ReactNative;"
+                -> Backend: NodeJS ✡
+                -> FrontEnd: ReactJS ☸
+                -> Mobile: ReactNative ☸ "
     
   }
   
