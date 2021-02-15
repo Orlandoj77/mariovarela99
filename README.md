@@ -38,7 +38,12 @@
     
     "AllRight" : "Yes. Of Course.",
     
-    "message" : "I am Web Programmer, FullStack Developer Focusing on JavaScript -> Backend: NodeJS -> FrontEnd: ReactJS -> Mobile: ReactNative;"
+    "message" : "I am Web Programmer, 
+                FullStack Developer 
+                Focusing on JavaScript 
+                * Backend: NodeJS 
+                * FrontEnd: ReactJS 
+                * Mobile: ReactNative;"
     
   }
   
