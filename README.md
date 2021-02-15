@@ -22,7 +22,7 @@
       "Tel - 📞" : "940245416",
     },
     
-    "location" : "Luanda Angola, Sambizanga - São Paulo  - Rua Cónego Manuel das Neves CS-Nº 20",
+    "location" : "Luanda Angola, Sambizanga - São Paulo",
     
     "languages" : [
           "Javascript 👌", 
