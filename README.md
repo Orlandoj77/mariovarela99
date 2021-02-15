@@ -18,9 +18,9 @@
       "GitHub" : "/mariovarela99",
       "Instagram" : "/mariovarela99",
       "Outlook" : "mariovarela99outlook.com",
-      "Gmail" : "marioteixeiravarelagmail.com"
+      "Gmail" : "marioteixeiravarelagmail.com",
       "Tel" : "940245416",
-    }
+    },
     
     "location" : "Luanda Angola, Sambizanga - São Paulo  - Rua Cónego Manuel das Neves CS-Nº 20",
     
