@@ -1,8 +1,8 @@
 # Mário Varela
 
-# Hi There. 
+Hi There. 🤙
 
-Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJs and React Native to work, I am Open to Work and to Collaborate on Projects.
+Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJs and React Native to work, I am Open to Work and to Collaborate on Projects.💻
 
 > ## Find Me There🚀🚀
 
