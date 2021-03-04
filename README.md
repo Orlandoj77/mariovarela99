@@ -4,7 +4,7 @@ Hi There. 🤙
 
 Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJs and React Native to work, I am Open to Work and to Collaborate on Projects.💻
 
-<img style="display: flex; align: center; justify-content: center; width: 200px;" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/146115258_473202933845704_5684476767986986333_n.jpg?_nc_cat=100&ccb=3&_nc_sid=174925&_nc_eui2=AeEp4vuSHzX8NR8u_pvKYo3JJMMeTXu5nCAkwx5Ne7mcIAOi7goHL5jr6WZ9Rs-4elP3qxmm31t36ZQuD9tUxQ19&_nc_ohc=mm7rSJQ1qLkAX9QBhNv&_nc_ht=scontent-lhr8-1.xx&oh=048071b31b703729b5d58405f0043014&oe=6067C572" alt="Profile Picture">
+<img style="{display: flex, align: center, justify-content: center, width: 200px}" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/146115258_473202933845704_5684476767986986333_n.jpg?_nc_cat=100&ccb=3&_nc_sid=174925&_nc_eui2=AeEp4vuSHzX8NR8u_pvKYo3JJMMeTXu5nCAkwx5Ne7mcIAOi7goHL5jr6WZ9Rs-4elP3qxmm31t36ZQuD9tUxQ19&_nc_ohc=mm7rSJQ1qLkAX9QBhNv&_nc_ht=scontent-lhr8-1.xx&oh=048071b31b703729b5d58405f0043014&oe=6067C572" alt="Profile Picture">
 
 > ## Find Me There🚀🚀
 
