@@ -1,5 +1,9 @@
 # Mário Varela
 
+# Hi There. 
+
+Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJs and React Native to work, I am Open to Work and to Collaborate on Projects.
+
 > ## Find Me There🚀🚀
 
 [![GitHub Badge](https://img.shields.io/badge/-mariovarela99-050342?style=flat-square&labelColor=050342&logo=github&logoColor=white&link=https://github.com/mariovarela99)](https://github.com/mariovarela99)
